@@ -1,0 +1,31 @@
+table{
+    color: #fff;
+    text-align: center;
+    border-collapse: collapse;
+    font: normal 3em Ariel, Helvetica,San-serif;
+}
+tr{
+    height: 16.02 vh;
+    background-color: #4c494d;
+}
+td{
+    width: 25vw;
+    border: 1px solid #4c494d;
+}
+#inputbox{
+    background-color: #4e494d;
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    color: #fff;
+    border: 0px;
+}
+.digitButton{
+    background-color:peru;
+}
+.operator{
+    background-color:grey;
+}
+.AcButton{
+    background-color: #656165;
+}

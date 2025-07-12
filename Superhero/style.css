@@ -1,0 +1,59 @@
+.gallery img{
+     width: 100%;
+}
+#header{
+       position: fixed;
+       top     : 0;
+       left    : 0;
+       z-index : 500;
+       width   : 100%;
+       height  : 80px;
+       background-image: url('images/Marvel_Studios_Logo_-_2016.webp');
+       background-repeat: repeat-x;
+}
+
+#header img{
+      display    : block;
+      margin     : auto;
+      height     :70%;
+      padding-top: 15px;
+      
+}
+
+
+h4{
+     font-family: impact, fantasy;
+     font-size: 20px;
+     font-style:italic ;
+     color: maroon;
+}
+h6{
+     font-family: impact,fantasy;
+     font-size: 50px;
+     font-style: initial;
+     color: grey;
+}
+p{
+     font-family: Arial, Helvetica, sans-serif;
+}
+body{
+     background: -radical-gradient(radiant purple);
+}
+#menu{
+     width: 100%;
+     height: 40px;
+     background-color: maroon;
+     padding-top: 12px;
+}
+#menu a{
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 18px;
+     text-decoration: none;
+     font-weight: 800; 
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+      color:#5077bd; }
